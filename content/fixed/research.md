@@ -5,7 +5,7 @@
     "weight": "1"
 }
 
-# CURRENT PROJECTS
+This page lists the most recent projects I am currently working on.
 
 
 ## Capacity Change Catalysts in Increasing Student Diversity in Engineering in a Predominantly White Institution Using a Sociotechnical Systems Lens, National Science Foundation, PI: A. Pennathur, July 2021

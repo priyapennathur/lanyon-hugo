@@ -23,3 +23,19 @@ One in three patients in the US are likely to experience a medical error. Estima
 
 ### Project overview
 I developed an information trail model that tracks information as it is created, used and managed by people. The model captures 16 characteristics of information and models the flow of information across a system based on theories of complexity and self-organization. With this model, I have extended my work to understand information that healthcare providers create, use and manage. The model helps the medical community [both researchers and practitioners] understand how and what information health providers create and use, and how that information is integrated and shared among the different providers. I developed a prototype for representing information content and form in a novel way to best support provider needs and conducted experiments to assess usability and situation awareness.
+
+---
+## COGNITIVE WORK IN HEALTHCARE: OTHER RELATED PROJECTS
+
+In addition to projects outlined above in information systems and cognitive work in different healthcare areas, I have worked on other grant proposals and mentored projects that cuts across these areas. Two MS theses has resulted from these efforts. 
+
+### The Role of Teamwork in Diagnosis: Team Diagnostic Decision-Making in The Medical Intensive Care Unit, Brennan Ayres, MS Thesis, May 2017
+
+The goals of the MS thesis were to understand diagnostic decision making in healthcare using a teamwork lens. Brennan’s project involved examining the structure and functioning of teams to arrive at a diagnosis. He interviewed healthcare workers in the medical intensive care unit, and used team cognitive work analysis methods and qualitative analysis to develop insights. This current and emerging topic adds to our understanding about diagnostic decision making and diagnostic errors. A manuscript is being prepared for submission to a journal.
+
+### Decision Making Under Uncertainty in The Emergency Department: Studying the Effects of Cognitive Biases in The Diagnosis of Sepsis, Thomas Noonan, MS Thesis, May 2018
+
+Thomas integrated cognitive engineering concepts such as bias and data mining and information modeling methods to identify the presence of cognitive bias while making a decision about presence of sepsis in a patient. Patient and provider data about diagnosis decisions came from an alert system used by the emergency department. Thomas used data mining techniques to study these decisions for the presence of bias. His work not only has immense potential to inform how physicians make decisions using the available information, but also how human factors and data mining can be integrated to provide useful design applications to prevent medical errors.
+
+
+
