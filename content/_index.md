@@ -13,7 +13,7 @@ I currently serve as the Director of Graduate Studies in my deparment. I served 
 
 ---
 
-### Selected Awards and Honor
+### Selected Awards and Honors
 
 1.	Winner of the 2018 Dr. Hamed K. Eldin Outstanding Early Career IE in Academia, Institute of Industrial and Systems Engineering, Orlando, FL.
 2.	Winner of the 2014 International Ergonomics Association (IEA) Liberty Mutual Medal in Occupational Safety and Ergonomics, and a cash prize of $10,000, Liberty Mutual Insurance Company, Presented at the Product Design/Health Care Technical Groups Networking Reception on October 28 at the Annual Human Factors and Ergonomics Conference, Chicago, IL.
