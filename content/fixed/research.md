@@ -5,7 +5,7 @@
     "weight": "1"
 }
 
-# Current Projects
+# CURRENT PROJECTS
 
 
 ## Capacity Change Catalysts in Increasing Student Diversity in Engineering in a Predominantly White Institution Using a Sociotechnical Systems Lens, National Science Foundation, PI: A. Pennathur, July 2021

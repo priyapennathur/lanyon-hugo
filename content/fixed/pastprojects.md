@@ -4,7 +4,7 @@
 }
 This is a list of some of the past funded and unfunded research that I have worked on.
 
-# TECHNOLOGY TRANSITIONS AND IMPACT ON WORK
+## TECHNOLOGY TRANSITIONS AND IMPACT ON WORK
 My early work in understanding information systems and tools in healthcare work systems led to an investigation of the role information plays in the design of work tools in cognitive work systems, and in keeping the work system self-organized and robust.  Further, what role do the people in the system play in keeping the work system orderly? My investigations were supported by a 5-year grant (NIH equivalent of an NSF-CAREER grant funded for $768,528) from the National Library of Medicine (NLM-NIH) as detailed in the next section.  
 
 *Technology, Cognitive Work and Patient Safety: An Information-Oriented Model (K99/R00), 9/1/2012-8/31/2017, Funding Source: National Library of Medicine, Role: PI*
