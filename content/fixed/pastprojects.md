@@ -1,6 +1,6 @@
 
 {
-    "title": "Teaching",
+    "title": "Past Projects",
     "sidebar": true,
     "weight": "3"
 }
