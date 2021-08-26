@@ -1,6 +1,0 @@
-
-
-
-**Past Projects**
-
-1. 
