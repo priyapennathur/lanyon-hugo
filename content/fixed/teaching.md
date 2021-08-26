@@ -2,7 +2,7 @@
 {
     "title": "Teaching",
     "sidebar": true,
-    "weight": "2"
+    "weight": "3"
 }
 **Courses I have taught since 2012:**
 
