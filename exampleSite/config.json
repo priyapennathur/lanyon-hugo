@@ -5,7 +5,7 @@
 
     "builddrafts": false,
 
-    "baseurl": "https://tummychow.github.io/lanyon-hugo/",
+    "baseurl": "https://priyapennathur.netlify.app",
     "canonifyurls": true,
     "permalinks": {
         "post": ":year/:month/:day/:title/",
