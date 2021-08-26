@@ -47,7 +47,7 @@
             "post"
         ],
         "Github": {
-            "Url": "http://github.com/priyapennathur/priyalanyon-hugo",
+            "Url": "http://github.com/priyapennathur/lanyon-hugo",
             "Head": "master"
         },
 	"disableFonts": false
