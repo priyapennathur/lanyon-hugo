@@ -9,7 +9,7 @@
       {{- with .Site.Params.description }}
       {{ . | markdownify }}
       {{- else }}
-      Home page for Priyadarshini R. Pennathur . Made Hugo and Lanyon.
+      Home page for Priyadarshini R. Pennathur . Made with Hugo and Lanyon.
       {{- end }}
     </p>
   </div>
@@ -29,12 +29,12 @@
       {{ end -}}
     {{ end -}}
 
-    {{- with .Site.Params.Github }}
+  <!---  {{- with .Site.Params.Github }}
     <a class="sidebar-nav-item" href="{{ .url }}/archive/{{ .head }}.zip">Download</a>
     <a class="sidebar-nav-item" href="{{ .url }}">GitHub project</a>
     <span class="sidebar-nav-item">Currently on {{ .head }}</span>
     {{ end -}}
-  </nav>
+  </nav>--->
 
   <div class="sidebar-item">
     <p>&copy; {{ .Site.LastChange.Year }}. All rights reserved.</p>
