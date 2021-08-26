@@ -69,7 +69,7 @@ Other related body of work is in patient safety, and application of human factor
 2. A visiting PhD student, Afrooz Kazerouni worked with me at the University of Iowa on two projects, both related to the environment. She examined the utilization of stairwells in the hospital to improve healthcare worker wellbeing and health, and examined the layout of the operating room to provide infection prevention recommendations. Both projects resulted in conference or journal publications. 
 
 ### Work Systems Design
-1. I worked with several colleagues in Nursing, College of Pharmacy and UI Healthcare System in patient safety and human factors applications in medication management, facility design, IT design and compliance management. We conducted preliminary work in local pharmacies to understand system factors impacting medication management. We developed a framework using the interview data.   
+I worked with several colleagues in Nursing, College of Pharmacy and UI Healthcare System in patient safety and human factors applications in medication management, facility design, IT design and compliance management. We conducted preliminary work in local pharmacies to understand system factors impacting medication management. We developed a framework using the interview data.   
 
 ### Design, Implementation and Evaluation of Technology in Medicine
 1. I also worked on projects with colleagues in Internal Medicine on smartphone communication, transitions of care and EHR design. My PhD student Hamed Salehi has published conference proceedings and from this work.
@@ -83,7 +83,8 @@ Other related body of work is in patient safety, and application of human factor
 
 ### Infection Prevention
 
-1. *Volume of Contamination and Nosocomial Infection Control, PI: Perencevich, PI for our aim: L. Herwaldt;9/30/2015-9/29/2018, Centers for Disease Control and Prevention, Role: Co-PI.* The project goals were to identify factors that increase or decrease the risk of self-contamination during doffing of different personal protective equipment. We used HFE and ethnographic approaches to identify factors that affect the likelihood of doffing errors and self-contamination. For our human factors assessments, we use hierarchical task analysis and cognitive task analysis methods to identify cognitive workload, information requirements, and sensory requirements when healthcare workers doff PPE during various scenarios. 
+*Volume of Contamination and Nosocomial Infection Control, PI: Perencevich, PI for our aim: L. Herwaldt;9/30/2015-9/29/2018, Centers for Disease Control and Prevention, Role: Co-PI.* 
+The project goals were to identify factors that increase or decrease the risk of self-contamination during doffing of different personal protective equipment. We used HFE and ethnographic approaches to identify factors that affect the likelihood of doffing errors and self-contamination. For our human factors assessments, we use hierarchical task analysis and cognitive task analysis methods to identify cognitive workload, information requirements, and sensory requirements when healthcare workers doff PPE during various scenarios. 
 
 
 ## DESIGN OF INFORMATION SYSTEMS TO SUPPORT WORKER NEEDS (EARLY WORK AT THE UNIVERSITY AT BUFFALO)
@@ -99,8 +100,6 @@ This early work was timely as transitions from manual health records to electron
 
 ### Project overview
 We used photographs of whiteboards and text from interviews of healthcare workers to document the impact of computerization on how they worked, solved problems and made clinical decisions, and communicated with each other during the care process.
-
-
 
 *Simulating Emergency Department IT Interfaces to Enhance Patient Safety. (PI: Lin), 1U18HS01667, 09/01/06- 08/31/09, Funding Source: Agency for Healthcare Research Quality (AHRQ).*
 
