@@ -5,7 +5,7 @@
 This is a list of some of the past funded and unfunded research that I have worked on.
 
 ## TECHNOLOGY TRANSITIONS AND IMPACT ON WORK
-My early work in understanding information systems and tools in healthcare work systems led to an investigation of the role information plays in the design of work tools in cognitive work systems, and in keeping the work system self-organized and robust.  Further, what role do the people in the system play in keeping the work system orderly? My investigations were supported by a 5-year grant (NIH equivalent of an NSF-CAREER grant funded for $768,528) from the National Library of Medicine (NLM-NIH) as detailed in the next section.  
+My early work in understanding information systems and tools in healthcare work systems led to an investigation of the role information plays in the design of work tools in cognitive work systems, and in keeping the work system self-organized and robust.  Further, what role do the people in the system play in keeping the work system orderly? My investigations were supported by a 5-year grant (NIH equivalent of an NSF-CAREER grant funded for $768,528) from the National Library of Medicine (NLM-NIH).  
 
 *Technology, Cognitive Work and Patient Safety: An Information-Oriented Model (K99/R00), 9/1/2012-8/31/2017, Funding Source: National Library of Medicine, Role: PI*
 
@@ -55,6 +55,7 @@ Nursing pain management observations targeted post-operative total knee replacem
 
 
 *Pain management in Cancer and Human Factors Engineering Perspectives*
+
 The opportunity to work on understanding implications of effective pain management and cognitive work of nurses provided impetus to study this topic in related domains such as for nurses who manage pain for cancer patients. Dorota, a PhD candidate in the School of Nursing, and a practicing nurse in the oncology unit has been working with me for a couple of years (initially as an independent study) in exploring cancer pain management from a systems perspective. She has presented the work in many national and international venues. 
 
 
@@ -69,9 +70,11 @@ Other related body of work is in patient safety, and application of human factor
 2. A visiting PhD student, Afrooz Kazerouni worked with me at the University of Iowa on two projects, both related to the environment. She examined the utilization of stairwells in the hospital to improve healthcare worker wellbeing and health, and examined the layout of the operating room to provide infection prevention recommendations. Both projects resulted in conference or journal publications. 
 
 ### Work Systems Design
+
 I worked with several colleagues in Nursing, College of Pharmacy and UI Healthcare System in patient safety and human factors applications in medication management, facility design, IT design and compliance management. We conducted preliminary work in local pharmacies to understand system factors impacting medication management. We developed a framework using the interview data.   
 
 ### Design, Implementation and Evaluation of Technology in Medicine
+
 1. I also worked on projects with colleagues in Internal Medicine on smartphone communication, transitions of care and EHR design. My PhD student Hamed Salehi has published conference proceedings and from this work.
 
 2. I worked as a co-PI in Prof. Geb Thomas’s AHRQ grant to assist in qualitative data collection and analysis of insights about cognitive errors made when adjusting head of bed angles in an intensive care unit.
@@ -88,6 +91,7 @@ The project goals were to identify factors that increase or decrease the risk of
 
 
 ## DESIGN OF INFORMATION SYSTEMS TO SUPPORT WORKER NEEDS (EARLY WORK AT THE UNIVERSITY AT BUFFALO)
+
 In my early work during my doctoral studies, we attempted to understand the changes in transitioning from simple manual tools such as whiteboards to electronic technologies like patient tracking systems. 
 
 *Safety Implications of Computerizing ED Status Boards. (PI: Wears) 07/01/05–06/30/07, Funding Source: Emergency Medicine Foundation*
