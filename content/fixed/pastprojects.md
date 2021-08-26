@@ -33,6 +33,7 @@ Thomas integrated cognitive engineering concepts such as bias and data mining an
 
 ---
 
+
 ## PAIN MANAGEMENT AND COGNITIVE WORK
 
 *Cognitive Work Associated with Evidence-Based Pain Management, Multi-PI: Cullen, Pennathur, 1/1/14-12/31/16, Funding Source: Adult Clinical Practice Collaborative Research Award.*
@@ -55,6 +56,7 @@ Nursing pain management observations targeted post-operative total knee replacem
 
 *Pain management in Cancer and Human Factors Engineering Perspectives*
 The opportunity to work on understanding implications of effective pain management and cognitive work of nurses provided impetus to study this topic in related domains such as for nurses who manage pain for cancer patients. Dorota, a PhD candidate in the School of Nursing, and a practicing nurse in the oncology unit has been working with me for a couple of years (initially as an independent study) in exploring cancer pain management from a systems perspective. She has presented the work in many national and international venues. 
+
 
 ## OTHER PATIENT SAFETY AND HUMAN FACTORS WORK
 
@@ -82,3 +84,33 @@ Other related body of work is in patient safety, and application of human factor
 ### Infection Prevention
 
 1. *Volume of Contamination and Nosocomial Infection Control, PI: Perencevich, PI for our aim: L. Herwaldt;9/30/2015-9/29/2018, Centers for Disease Control and Prevention, Role: Co-PI.* The project goals were to identify factors that increase or decrease the risk of self-contamination during doffing of different personal protective equipment. We used HFE and ethnographic approaches to identify factors that affect the likelihood of doffing errors and self-contamination. For our human factors assessments, we use hierarchical task analysis and cognitive task analysis methods to identify cognitive workload, information requirements, and sensory requirements when healthcare workers doff PPE during various scenarios. 
+
+
+## DESIGN OF INFORMATION SYSTEMS TO SUPPORT WORKER NEEDS (EARLY WORK AT THE UNIVERSITY AT BUFFALO)
+In my early work during my doctoral studies, we attempted to understand the changes in transitioning from simple manual tools such as whiteboards to electronic technologies like patient tracking systems. 
+
+*Safety Implications of Computerizing ED Status Boards. (PI: Wears) 07/01/05–06/30/07, Funding Source: Emergency Medicine Foundation*
+
+### Project Goals
+The goals of the project were to evaluate the impact of the transition from a manual whiteboard to an electronic patient tracking system in an emergency room. We wanted to investigate in detail the nature of change in the information healthcare providers use, and the technical aspects of their work with changes in these cognitive tools. We analyzed the information in physical whiteboards and compared them against the content in electronic patient information systems. 
+
+### Importance of the problem
+This early work was timely as transitions from manual health records to electronic health records were occurring rapidly in the US. But there was limited effort in understanding the human factors aspects, particularly in documenting the cognitive aspects of healthcare work, and how work tools impacted medical errors.
+
+### Project overview
+We used photographs of whiteboards and text from interviews of healthcare workers to document the impact of computerization on how they worked, solved problems and made clinical decisions, and communicated with each other during the care process.
+
+
+
+*Simulating Emergency Department IT Interfaces to Enhance Patient Safety. (PI: Lin), 1U18HS01667, 09/01/06- 08/31/09, Funding Source: Agency for Healthcare Research Quality (AHRQ).*
+
+In addition to contributing to knowledge on how technology transitions impact healthcare work systems, when I was a doctoral student at the University at Buffalo, we endeavored to develop usable technology systems for healthcare, and tested the systems with feedback from health care providers. 
+
+### Project Goals
+To understand if a redesigned information system may help reduce workload and improve situation awareness for managing patient information in emergency departments.
+
+### Importance of the Problem
+Electronic health information systems were beginning to emerge, and there was an increased emphasis on understanding how these systems affect cognitive elements of healthcare work, so we could minimize medical errors. 
+
+### Project overview
+We created a prototype electronic patient tracking system as a standalone application. The data for the patient tracking system was populated from volume and traffic data obtained from an ED through simulation techniques. We also created patient scripts to realistically simulate patients with different clinical conditions entering the emergency department. We also simulated phone calls and interruptions, making the prototype an immersive experimental setup for evaluating information system use.
