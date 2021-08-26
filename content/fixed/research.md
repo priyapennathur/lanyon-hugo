@@ -15,6 +15,7 @@ The goals of the project are to generate systemwide capacity change catalysts in
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria. [NSF Award Link](https://nsf.gov/awardsearch/showAward?AWD_ID=2042363&HistoricalAwards=false)
 
+___
 
 ## RAPID: Triaging Decisions during Catastrophic Events: A Study of Frontline Triage Nurses, National Science Foundation, PI: P.Pennathur, June 2020
 
