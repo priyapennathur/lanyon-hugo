@@ -10,13 +10,7 @@ My early work in understanding information systems and tools in healthcare work 
 *Technology, Cognitive Work and Patient Safety: An Information-Oriented Model (K99/R00), 9/1/2012-8/31/2017, Funding Source: National Library of Medicine, Role: PI*
 
 ### Project Goals
-My project focuses on understanding how, why and what information people create, use and share in a system to facilitate goal achievement and work performance, and how designers can effectively use that knowledge about people’s interaction with information for designing information systems. Additionally, my research highlights the nature, form, and attributes of health information, and the tools and technologies health providers use as cognitive supports for their patient care tasks. My specific aims were:
-
-Specific Aim 1: To model the discharge process flow where providers create and use low-level information, I would map major discharge process events depicting patient and discharge process state changes. I would qualitatively analyze provider interviews and focus group data.
-
-Specific Aim 2: To identify low-level information attributes of major discharge process events and relate them to workarounds and medical error, I would use the information-based work design technique to tag the discharge process flow map developed in an earlier K99 grant (that I received also from NLM-NIH) phase with: (a) low-level information providers create and use for discharge from provider observations, shadowing and interviews; (b) past and potential errors from adverse-events data, care provider interviews; and (c) provider developed strategies and workarounds. 
-
-Specific Aim 3: To demonstrate utility of low-level information pieces as design bases for cognitive work support, I would test two research interventions: (1) design an information-action interface with information pieces and associated properties, and test situation awareness of providers with the new interface; (2) augment selected existing IT support in the discharge process with new low-level information-based design features from my work to see if workarounds are reduced.
+My project focuses on understanding how, why and what information people create, use and share in a system to facilitate goal achievement and work performance, and how designers can effectively use that knowledge about people’s interaction with information for designing information systems. Additionally, my research highlights the nature, form, and attributes of health information, and the tools and technologies health providers use as cognitive supports for their patient care tasks. 
 
 ### Importance of the Problem
 One in three patients in the US are likely to experience a medical error. Estimates of adverse events now are ten times more than what IOM predicted ten years ago. Inadequate information support is the second major cause for medical errors and adverse drug events. A lack of timely access to critical patient information, information lost in communication, poor information sharing and transfer provisions, lack of interoperability between information sources, and poor support for provider information needs, all cause problems for safe care, and heighten the need to reevaluate how we design, operate and maintain information support systems. Managing information for safe care, especially in the new EHR environment, continues to be cognitively challenging for care providers. A recent report from an NRC Committee on Engaging the Computer Science Research in Health Care Informatics concludes that healthcare work is knowledge intensive, and that health IT systems must adequately support cognitive work of providers.
@@ -27,7 +21,7 @@ I developed an information trail model that tracks information as it is created,
 ---
 ## COGNITIVE WORK IN HEALTHCARE: OTHER RELATED PROJECTS
 
-In addition to projects outlined above in information systems and cognitive work in different healthcare areas, I have worked on other grant proposals and mentored projects that cuts across these areas. Two MS theses has resulted from these efforts. 
+In addition to projects in information systems and cognitive work in different healthcare areas, I have worked on other mentored projects that cuts across these areas. Two MS theses has resulted from these efforts. 
 
 ### The Role of Teamwork in Diagnosis: Team Diagnostic Decision-Making in The Medical Intensive Care Unit, Brennan Ayres, MS Thesis, May 2017
 
@@ -37,5 +31,54 @@ The goals of the MS thesis were to understand diagnostic decision making in heal
 
 Thomas integrated cognitive engineering concepts such as bias and data mining and information modeling methods to identify the presence of cognitive bias while making a decision about presence of sepsis in a patient. Patient and provider data about diagnosis decisions came from an alert system used by the emergency department. Thomas used data mining techniques to study these decisions for the presence of bias. His work not only has immense potential to inform how physicians make decisions using the available information, but also how human factors and data mining can be integrated to provide useful design applications to prevent medical errors.
 
+---
+
+## PAIN MANAGEMENT AND COGNITIVE WORK
+
+*Cognitive Work Associated with Evidence-Based Pain Management, Multi-PI: Cullen, Pennathur, 1/1/14-12/31/16, Funding Source: Adult Clinical Practice Collaborative Research Award.*
+
+ Pain management is a critical need of patients managed by nurses through continuous assessment, monitoring and interventions. Pain management is a significant cognitive work activity that nurses perform, and we wanted to understand the intricacies in it. Our pilot work has since gained more importance with the recent opioid crisis, and the need for effective prescribing practices.
+
+### Project Goals
+1.  Identify cognitive factors that impact use of evidence-based pain management (EBPM).
+2.  Identify system factors that impact use of EBPM. 
+3.  Identify preliminary patterns and relationships among cognitive factors, system factors, nurses’ cognitive workload, and use of EBPM.
+
+### Importance of the Problem
+The IOM recently identified three imperatives for continuous learning in healthcare: managing increasing complexity, achieving greater value, and capturing opportunities provided by technology/industry. One recommended strategy is to apply systems engineering for quality improvement to remove unnecessary burden on clinicians, enhance the patient experience and, thus improve outcomes. Using cognitive task analysis methods may provide direction for innovative implementation strategies supporting adoption of EBPM. 
+
+Quality and safety standards create expectations for provision of evidence-based practice (EBP), yet EBP is not consistently provided. The complexity of EBP recommendations and current workload create a significant challenge for clinicians to integrate EBP into their workflow. Increased demands in nurses’ cognitive work such as cognitive shifts and interruptions, cognitive stacking and lack of care coordination may influence consistent adoption of EBP. System factors such as geographic layout of the facility, technology, and social and organizational aspects of their workplace can affect EBP practices. To understand the impact of cognitive work and system factors on EBP, we chose to address pain because it is frequent, complex and an important clinical condition.
+
+### Project overview
+Nursing pain management observations targeted post-operative total knee replacement (TKR) patients, because they often experience severe pain. Inadequate pain control is associated with poor functional recovery. Our exploratory study uses human factors engineering methods to identify cognitive and system factors affecting use of EBP. A mixed method design used cognitive task analysis and contextual inquiry techniques with qualitative and quantitative data collection including shadowing and follow-up interviews, focus group discussions, and nurses’ ratings of workload. 
 
 
+*Pain management in Cancer and Human Factors Engineering Perspectives*
+The opportunity to work on understanding implications of effective pain management and cognitive work of nurses provided impetus to study this topic in related domains such as for nurses who manage pain for cancer patients. Dorota, a PhD candidate in the School of Nursing, and a practicing nurse in the oncology unit has been working with me for a couple of years (initially as an independent study) in exploring cancer pain management from a systems perspective. She has presented the work in many national and international venues. 
+
+## OTHER PATIENT SAFETY AND HUMAN FACTORS WORK
+
+Other related body of work is in patient safety, and application of human factors to patient safety issues. My contribution to patient safety has been on modeling cognitive and other human factors implications of environment, technologies, teams and processes found in healthcare settings such as operating rooms. I present below some of the significant projects I have carried out. 
+
+### Work environment influences on hazards in the medical domain
+
+1. The publication I authored with several collaborators at Johns Hopkins on identification of hazards in the cardiac operating room and a cognitive framework won the Liberty Mutual Award for Best Article in Ergonomics. It was followed by the Liberty Mutual Medal with $10,000 prize for best work in Safety. The paper presented a model for how cognitive factors influenced hazards in the OR developed out of data on hazards in the operating room.  
+
+2. A visiting PhD student, Afrooz Kazerouni worked with me at the University of Iowa on two projects, both related to the environment. She examined the utilization of stairwells in the hospital to improve healthcare worker wellbeing and health, and examined the layout of the operating room to provide infection prevention recommendations. Both projects resulted in conference or journal publications. 
+
+### Work Systems Design
+1. I worked with several colleagues in Nursing, College of Pharmacy and UI Healthcare System in patient safety and human factors applications in medication management, facility design, IT design and compliance management. We conducted preliminary work in local pharmacies to understand system factors impacting medication management. We developed a framework using the interview data.   
+
+### Design, Implementation and Evaluation of Technology in Medicine
+1. I also worked on projects with colleagues in Internal Medicine on smartphone communication, transitions of care and EHR design. My PhD student Hamed Salehi has published conference proceedings and from this work.
+
+2. I worked as a co-PI in Prof. Geb Thomas’s AHRQ grant to assist in qualitative data collection and analysis of insights about cognitive errors made when adjusting head of bed angles in an intensive care unit.
+
+3. Another significant project, which grew out of my graduate course in healthcare human factors and collaboration with L. Cullen was an overwhelming success. It involved designing and implementing a dashboard displaying clinical risk indicators into the EPIC system. The dashboard was designed using human factors principles and evaluated for usability by our PhD IE alumni Mark Schall and Howard Chen under my mentoring.  Several conference publications and a journal manuscript have resulted from this work in addition to the implementation and integration with Epic. 
+
+4. As part of my human factors in healthcare course in Spring 2018, in collaboration with L. Cullen students evaluated a smart pump for usability issues. Specifically, nurses found a design error that made the pump not dispense medication.  Students evaluated the nursing process when using the pump and the design of the pump. A manuscript is in review.
+
+
+### Infection Prevention
+
+1. *Volume of Contamination and Nosocomial Infection Control, PI: Perencevich, PI for our aim: L. Herwaldt;9/30/2015-9/29/2018, Centers for Disease Control and Prevention, Role: Co-PI.* The project goals were to identify factors that increase or decrease the risk of self-contamination during doffing of different personal protective equipment. We used HFE and ethnographic approaches to identify factors that affect the likelihood of doffing errors and self-contamination. For our human factors assessments, we use hierarchical task analysis and cognitive task analysis methods to identify cognitive workload, information requirements, and sensory requirements when healthcare workers doff PPE during various scenarios. 
