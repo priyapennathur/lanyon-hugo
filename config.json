@@ -44,7 +44,7 @@
         "Author": "Priya",
         "DateForm": "Jan 2 2006",
         "mainSections": [
-            "post"
+            "fixed"
         ],
         "Github": {
             "Url": "http://github.com/priyapennathur/lanyon-hugo",
