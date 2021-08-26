@@ -1,5 +1,7 @@
 
-
+{
+    "title": "Past Projects"
+}
 This is a list of some of the current and past funded and unfunded research that I have worked on.
 
 #TECHNOLOGY TRANSITIONS AND IMPACT ON WORK
