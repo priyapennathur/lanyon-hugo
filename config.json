@@ -26,17 +26,6 @@
 
     "pygmentsuseclasses": true,
 
-    "menu": {
-        "main": [
-            {
-                "identifier": "categories",
-                "name": "Categories Section from Menu",
-                "title": "Categories section",
-                "url": "/categories/",
-                "weight": -110
-            }
-        ]
-    },
 
     "params": {
         "Title": "Priyadarshini Pennathur",
