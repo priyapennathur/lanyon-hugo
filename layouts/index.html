@@ -2,6 +2,15 @@
 
 <!-- Space delimited list of page types -->
 {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+<article>
+  <header>
+    <!-- # comment this out for the home page. -->
+    <!--<h1 class="text-primary">{{ .Title }}</h1>-->
+  </header>
+  <section>
+    {{ .Content }}
+  </section>
+</article>
 
 <!--<div class="posts">
   {{ range .Paginator.Pages }}
