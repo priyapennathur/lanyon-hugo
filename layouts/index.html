@@ -3,7 +3,7 @@
 <!-- Space delimited list of page types -->
 {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 
-<div class="posts">
+<!--<div class="posts">
   {{ range .Paginator.Pages }}
     <div class="post">
         <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
@@ -25,6 +25,6 @@
   {{ else }}
   <span class="pagination-item newer">Newer</span>
   {{ end }}
-</div>
+</div>-->
 
 {{ partial "default_foot.html" . }}
