@@ -26,4 +26,4 @@ Triage nurses routinely make triage decisions about patients. But, during a pand
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria. [NSF Award Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031371&HistoricalAwards=false)
 
 ---
-[Other Past and Present Projects]({{<ref "/fixed/pastprojects.md">}})
+[Other Projects]({{<ref "/fixed/pastprojects.md">}})
