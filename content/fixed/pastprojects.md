@@ -2,7 +2,7 @@
 {
     "title": "Past Projects"
 }
-This is a list of some of the past funded and unfunded research that I have worked on.
+This is a list of some of the past research that I have worked on.
 
 ## TECHNOLOGY TRANSITIONS AND IMPACT ON WORK
 My early work in understanding information systems and tools in healthcare work systems led to an investigation of the role information plays in the design of work tools in cognitive work systems, and in keeping the work system self-organized and robust.  Further, what role do the people in the system play in keeping the work system orderly? My investigations were supported by a 5-year grant (NIH equivalent of an NSF-CAREER grant funded for $768,528) from the National Library of Medicine (NLM-NIH).  
@@ -65,7 +65,24 @@ Other related body of work is in patient safety, and application of human factor
 
 ### Work environment influences on hazards in the medical domain
 
-1. The publication I authored with several collaborators at Johns Hopkins on identification of hazards in the cardiac operating room and a cognitive framework won the Liberty Mutual Award for Best Article in Ergonomics. It was followed by the Liberty Mutual Medal with $10,000 prize for best work in Safety. The paper presented a model for how cognitive factors influenced hazards in the OR developed out of data on hazards in the operating room.  
+ 
+1. *Improving the Safety of Care Transitions for Cardiac Surgery Patients (PI: A. Gurses)* 
+
+Study aim is to identify and mitigate hazards during handoffs for cardiac surgery patients. I was involved in study design, development of data collection tools such as interview guides and observation instruments, data collection in cardiac operating rooms, and analysis. 
+
+The publication I authored with several collaborators at Johns Hopkins on identification of hazards in the cardiac operating room and a cognitive framework won the Liberty Mutual Award for Best Article in Ergonomics. It was followed by the Liberty Mutual Medal with $10,000 prize for best work in Safety. The paper presented a model for how cognitive factors influenced hazards in the OR developed out of data on hazards in the operating room. 
+
+2. *Translating CER results from ICU study to improve outcomes in cardiac surgery. (PI: Pronovost), R18HS019934, 09/30/10 – 07/31/13, Agency for Healthcare Research Quality (AHRQ)*
+
+The aim of this study is to understand the impact of multi-faceted patient safety interventions in cardiac ORS, ICUs and surgical floors. In my role as a post-doctoral fellow, I was involved in experimental design, qualitative data collection and qualitative analysis during handoffs and transitions in care. 
+
+3. *Improving the Safety of Care Transitions for Cardiac Surgery Patients (PI: A. Gurses)*
+
+Study aim is to identify and mitigate hazards during handoffs for cardiac surgery patients. I was involved in study design, development of data collection tools such as interview guides and observation instruments, data collection in cardiac operating rooms, and analysis. 
+
+4. *Improving Patient Trajectory Management and Care Coordination with a Multidisciplinary Checklist (PI: A. Gurses), National Patient Safety Foundation.*
+
+Study aim is understanding communication during multidisciplinary discharge rounds. As a postdoctoral fellow, I was involved in preliminary qualitative content analysis, creation of coded-categories, development of qualitative and behavioral themes of data recorded during multi-disciplinary discharge rounds in inpatient floors, and interviews with providers involved in the discharge process. 
 
 2. A visiting PhD student, Afrooz Kazerouni worked with me at the University of Iowa on two projects, both related to the environment. She examined the utilization of stairwells in the hospital to improve healthcare worker wellbeing and health, and examined the layout of the operating room to provide infection prevention recommendations. Both projects resulted in conference or journal publications. 
 

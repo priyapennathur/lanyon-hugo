@@ -119,6 +119,8 @@ Pennathur, P. R., Bisantz, A. M., Fairbanks, R. J., Perry, S. J., Zwemer, F., We
 
 ### C. Conference Presentations
 
+Klarich, A., Noonan, T.Z., Reichlen, C., St. Marie, B., Cullen, L., Pennathur, P.R. Human Factors Analysis of Smart Pumps. **28th National Evidence Based Practice Conference, Iowa City, April 2021.**
+
 Momenipour, A. {PhD Student}, Pennathur, P.R., Cullen, L., Tripp-Reimer, T. Nurses Pain Management Workflow Analysis in Post-Operative Total Knee Replacement. **IISE Annual Conference and Expo, Orlando, FL, 2019.**
 
 Momenipour, A. {PhD Student}, Pennathur, P.R. Patterns of Providers’ Workflow Based on Electronic Documentation and Patient Care. **IISE Annual Conference and Expo, Orlando, FL, 2018.**
@@ -155,6 +157,8 @@ Pennathur, A., Contreras, L. R., Gudipati, S., Pennathur, P. R., Vadali, L., Tru
 
 
 ### D. Conference Posters
+
+Murphy, B.,{MS Student} Momenipour, A., Rojas-Murrillo, S., Pennathur, P.R., Pennathur, A. Usability of COVID-19 Dedicated Public Health Agency Websites: A Heuristic Evaluation. **Healthcare Systems Process Improvement Conference, 2021.**
 
 Lyden, C. {UG Student}, Cullen, L., Pennathur, P.R. Task Switching during Pain Management Tasks. **Institute of Industrial and Systems Engineers Annual Conference, New Orleans, Lousiana, May 2020.**
 
