@@ -1,7 +1,7 @@
 
 {
     "title": "Past projects",
-    "sidebar": true,
+    "sidebar": false,
     "weight": "1"
 }
 
