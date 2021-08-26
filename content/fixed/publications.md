@@ -6,9 +6,9 @@
 
 ### A. Peer-Reviewed Journal Publications
 
-2020. Pennathur, P.R. A Theoretical Framework for Understanding Creator-Consumer Information Interaction Behaviors in Healthcare Documentation Systems. **Applied Ergonomics Special Issue on Advancing Theory and Methods in Human Factors/Ergonomics for Health and Healthcare: A Tribute to Professor Ben-Tzion (Bentzi) Karsh, Vol 84, 2020**, Guest Editors: Holden, R.J., Valdez, R., Rivera, A.J.
+2020\. Pennathur, P.R. A Theoretical Framework for Understanding Creator-Consumer Information Interaction Behaviors in Healthcare Documentation Systems. **Applied Ergonomics Special Issue on Advancing Theory and Methods in Human Factors/Ergonomics for Health and Healthcare: A Tribute to Professor Ben-Tzion (Bentzi) Karsh, Vol 84, 2020**, Guest Editors: Holden, R.J., Valdez, R., Rivera, A.J.
 
-2019. Murillo, S. {PhD Student}, Pennathur, P.R. Selection of Key Visual Cues in Real and Virtual Environments for Assembly Tasks. **International Journal of Industrial Ergonomics,74(1), 2019.**
+2019\. Murillo, S. {PhD Student}, Pennathur, P.R. Selection of Key Visual Cues in Real and Virtual Environments for Assembly Tasks. **International Journal of Industrial Ergonomics,74(1), 2019.**
 
 2019. Baloh, J., Reisinger, H.S., Dukes, K., Pereira da Silva, J. {PhD Student}, Salehi, H.P. {PhD Student}, Ward, M., Chasco, E.E., Pennathur, P.R., Herwaldt, L. Healthcare Workers’ Strategies for Doffing Personal Protective Equipment. **Clinical Infectious Diseases Special Supplement. 2019**.
 
