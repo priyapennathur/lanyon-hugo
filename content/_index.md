@@ -7,7 +7,7 @@ I am a tenured Associate Professor in Industrial and Systems Engineering at the 
 
 My primary research interests are in studying people’s cognitive work and in designing information systems to support their cognitive work. My research has been funded by the National Science Foundation (NSF) and the National Library of Medicine at NIH. 
 
-In a recent NSF project funded in 2020, I am modeling nurses' decision making when tele-triaging during the pandemic. I have also received an NSF grant in September 2021 to study the how artificial intelligence will impact office work and workers.  
+In a recent NSF project funded in 2020, I am modeling nurses' decision making when tele-triaging during the pandemic. I have also received an NSF grant in September 2021 to study how artificial intelligence will impact office work and workers.  
 
 An allied research interest I have is in understanding barriers to creating a diverse, equitable, and inclusive educational environment for underrepresented minority students in engineering.  In a 2021 NSF grant I have received (in collaboration with Dr. A. Pennathur), I am examining social and technical factors that will catalyze the success of these students.   
 
