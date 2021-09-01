@@ -27,4 +27,4 @@ I am also the Director of Graduate Studies in my department. I have served on th
 6.	Winner, University of Iowa College of Engineering Award to Recognize Teaching and Dedication to Student Success, University of Iowa, Iowa City, IA, December 2016.
 4.	Winner, Outstanding Student Organization Advisor (I was the advisor of the IISE Student Chapter), College of Engineering, University of Iowa, Iowa City, IA, Spring 2017.
 
-Thank you for your interest in my work. Please browse through my research and publications page, and my teaching page to know more about my work. Please drop me a note at if you would like to [contact me](priyadarshini-pennathur@uiowa.edu). 
+Thank you for your interest in my work. Please browse through my research and publications page, and my teaching page to know more about my work. Please drop me a note at if you would like to [contact me](mailto:priyadarshini-pennathur@uiowa.edu). 
