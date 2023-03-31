@@ -16,6 +16,8 @@
 
 4. Human Factors in Healthcare Systems (Graduate)
 
+5. Future of Work (Graduate)
+
 **Seminars I have coordinated:**
 
 1. Professional Seminar for Industrial Engineering (Undergraduate)
